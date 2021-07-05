@@ -1,0 +1,32 @@
+h1{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 80px;
+}
+.font-style{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+body{
+    background-image: url(imagess/lion.jpg);
+    background-repeat: no-repeat;
+    background-size: 700px;
+}
+span{
+    color: orangered
+}
+.half-width{
+    width:50%;
+  
+}
+.flexible-container{
+    display: flex;
+    margin-bottom: 100px;
+}
+
+.link-button{
+    text-decoration: none;
+   background-image: linear-gradient(orange, orangered);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: whitesmoke;
+    font-weight: 700;
+}
