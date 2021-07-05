@@ -8,7 +8,8 @@ h1{
 body{
     background-image: url(imagess/lion.jpg);
     background-repeat: no-repeat;
-    background-size: 700px;
+    background-size: 500px;
+    background-position: center ;
 }
 span{
     color: orangered
